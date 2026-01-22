@@ -1,0 +1,12 @@
+- Tạo 1 app tên LifeCycle, icon đổi thành số nhóm
+- Tạo giao diện (kéo thả)
+- chèn dòng lệnh vào onCreate
+- Xử lí nút exit
+- override 6 thằng còn lại (thêm onRestart)
+- Lưu code
+- Compile và chạy, ghi message vào giấy
+- nhấn exit coi chạy ra gì
+- nhất lại nút tam giác coi chạy ra gì
+- nhấn nút home, coi hiện gì lên
+- mở launch pad, tìm icon số nhóm, chép vô giấy
+- nhấn nút back, coi hiện gì lên và ghi lại
