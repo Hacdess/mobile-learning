@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 1 - Setting up
 
 Hi, this is my first day learning mobile development. I'm learning from a video on Youtube called "Android Development for Beginners - Full Course" from freeCodeCamp.org. You can visit the video via this url: https://www.youtube.com/watch?v=fis26HvvDII&t=363s.
 
