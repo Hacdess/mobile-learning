@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<course phone="(440)942-2500" length="7200">Manakiki Golf Course</course>
+  <Placemark>
+    <name>Tee Box - Hole 1</name>
+    <Point>
+      <coordinates>-81.431,41.597,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.4309,41.5969,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.43079999999999,41.5968,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.4307,41.5967,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 2</name>
+    <Point>
+      <coordinates>-81.43,41.596,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 2</name>
+    <Point>
+      <coordinates>-81.4299,41.59589999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 2</name>
+    <Point>
+      <coordinates>-81.4298,41.5958,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 2</name>
+    <Point>
+      <coordinates>-81.42970000000001,41.595699999999994,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 3</name>
+    <Point>
+      <coordinates>-81.429,41.595,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 3</name>
+    <Point>
+      <coordinates>-81.4289,41.594899999999996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 3</name>
+    <Point>
+      <coordinates>-81.4288,41.5948,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 3</name>
+    <Point>
+      <coordinates>-81.4287,41.594699999999996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 4</name>
+    <Point>
+      <coordinates>-81.428,41.594,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 4</name>
+    <Point>
+      <coordinates>-81.4279,41.5939,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 4</name>
+    <Point>
+      <coordinates>-81.42779999999999,41.5938,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 4</name>
+    <Point>
+      <coordinates>-81.4277,41.5937,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 5</name>
+    <Point>
+      <coordinates>-81.427,41.592999999999996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 5</name>
+    <Point>
+      <coordinates>-81.4269,41.59289999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 5</name>
+    <Point>
+      <coordinates>-81.4268,41.5928,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 5</name>
+    <Point>
+      <coordinates>-81.42670000000001,41.592699999999994,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 6</name>
+    <Point>
+      <coordinates>-81.426,41.592,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 6</name>
+    <Point>
+      <coordinates>-81.4259,41.591899999999995,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 6</name>
+    <Point>
+      <coordinates>-81.4258,41.5918,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 6</name>
+    <Point>
+      <coordinates>-81.4257,41.591699999999996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 7</name>
+    <Point>
+      <coordinates>-81.425,41.591,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 7</name>
+    <Point>
+      <coordinates>-81.4249,41.5909,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 7</name>
+    <Point>
+      <coordinates>-81.42479999999999,41.5908,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 7</name>
+    <Point>
+      <coordinates>-81.4247,41.5907,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 8</name>
+    <Point>
+      <coordinates>-81.424,41.589999999999996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 8</name>
+    <Point>
+      <coordinates>-81.4239,41.58989999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 8</name>
+    <Point>
+      <coordinates>-81.4238,41.5898,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 8</name>
+    <Point>
+      <coordinates>-81.42370000000001,41.58969999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 9</name>
+    <Point>
+      <coordinates>-81.423,41.589,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 9</name>
+    <Point>
+      <coordinates>-81.4229,41.588899999999995,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 9</name>
+    <Point>
+      <coordinates>-81.4228,41.5888,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 9</name>
+    <Point>
+      <coordinates>-81.4227,41.588699999999996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee Box - Hole 10</name>
+    <Point>
+      <coordinates>-81.422,41.588,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 10</name>
+    <Point>
+      <coordinates>-81.4219,41.5879,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 10</name>
+    <Point>
+      <coordinates>-81.42179999999999,41.5878,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 10</name>
+    <Point>
+      <coordinates>-81.4217,41.5877,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

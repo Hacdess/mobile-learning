@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Players xmlns="http://Players">
+  <Player><Name>Tiger Woods</Name><Phone>555-1001</Phone></Player>
+  <Player><Name>Rory McIlroy</Name><Phone>555-1002</Phone></Player>
+  <Player><Name>Phil Mickelson</Name><Phone>555-1003</Phone></Player>
+  <Player><Name>Jordan Spieth</Name><Phone>555-1004</Phone></Player>
+  <Player><Name>Jon Rahm</Name><Phone>555-1005</Phone></Player>
+  <Player><Name>Dustin Johnson</Name><Phone>555-1006</Phone></Player>
+  <Player><Name>Brooks Koepka</Name><Phone>555-1007</Phone></Player>
+  <Player><Name>Scottie Scheffler</Name><Phone>555-1008</Phone></Player>
+  <Player><Name>Justin Thomas</Name><Phone>555-1009</Phone></Player>
+  <Player><Name>Collin Morikawa</Name><Phone>555-1010</Phone></Player>
+  <Player><Name>Hideki Matsuyama</Name><Phone>555-1011</Phone></Player>
+  <Player><Name>Adam Scott</Name><Phone>555-1012</Phone></Player>
+  <Player><Name>Sergio Garcia</Name><Phone>555-1013</Phone></Player>
+  <Player><Name>Rickie Fowler</Name><Phone>555-1014</Phone></Player>
+  <Player><Name>Xander Schauffele</Name><Phone>555-1015</Phone></Player>
+  <Player><Name>Viktor Hovland</Name><Phone>555-1016</Phone></Player>
+  <Player><Name>Sam Burns</Name><Phone>555-1017</Phone></Player>
+  <Player><Name>Patrick Cantlay</Name><Phone>555-1018</Phone></Player>
+  <Player><Name>Tony Finau</Name><Phone>555-1019</Phone></Player>
+  <Player><Name>Cameron Smith</Name><Phone>555-1020</Phone></Player>
+</Players>
